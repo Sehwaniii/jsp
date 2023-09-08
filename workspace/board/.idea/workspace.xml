@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f70c8d32-9e57-4613-9d43-266ee738985c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/.idea/day09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/필기.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day10-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day10-config/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day10-config/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day10-config/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day10-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day10-config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day11-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day11-config/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day11-config/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day11-config/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day11-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/day11-config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/com/codingbox/sql/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/com/codingbox/web/mybatis/SqlMapConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/com/codingbox/web/mybatis/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11/src/main/java/com/codingbox/web/servlet/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11/src/main/webapp/a2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day11/src/main/webapp/c.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12/src/main/java/com/codingbox/sql/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12/src/main/java/com/codingbox/web/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12/src/main/java/com/codingbox/web/mybatis/SqlMapConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12/src/main/java/com/codingbox/web/mybatis/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12/src/main/java/com/codingbox/web/servlet/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day12/src/main/java/com/codingbox/web/servlet/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../필기.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Uj7Q8kWTd0Hj1Fxy5OhTHbNcmv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/gb_ksh_0630/jsp/workspace",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f70c8d32-9e57-4613-9d43-266ee738985c" name="Changes" comment="" />
+      <created>1693441116158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693441116158</updated>
+      <workItem from="1693441117162" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
